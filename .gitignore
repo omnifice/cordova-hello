@@ -1,0 +1,7 @@
+plugins/
+platforms/
+*.sw[mnpcod]
+*.log
+*.tmp
+*.tmp.*
+log.txt
