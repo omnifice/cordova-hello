@@ -97,6 +97,21 @@ h1 {
     display:none;
 }
 
+.event.status {
+    background-color:#4B946A;
+    display:block;
+}
+
+#fileready .dataOutput {
+  background-color: #FFFFFF;
+  border: 1px solid #333333;
+  color: #333333;
+  width: 250px;
+  height: 80px;
+  overflow: scroll;
+  font-size: 12px;
+}
+
 @keyframes fade {
     from { opacity: 1.0; }
     50% { opacity: 0.4; }
